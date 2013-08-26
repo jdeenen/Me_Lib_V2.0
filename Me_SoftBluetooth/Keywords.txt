@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map Me_SoftBluetooth
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_SoftBluetooth	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setName	KEYWORD2
+setRole	KEYWORD2
+setBaudrate	KEYWORD2
+masterConnect	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+available	KEYWORD2
+flush	KEYWORD2
+checkConnected	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+

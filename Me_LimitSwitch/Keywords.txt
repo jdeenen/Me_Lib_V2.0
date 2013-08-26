@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map Me_LimitSwitch
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_LimitSwitch	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+readUpPin	KEYWORD2
+readDownPin	KEYWORD2
+
+#######################################
+

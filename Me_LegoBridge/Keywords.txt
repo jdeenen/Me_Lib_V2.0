@@ -1,0 +1,56 @@
+#######################################
+# Syntax Coloring Map Me_LegoBridge
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Me_I2cMaster	KEYWORD1
+Me_LegoMotor	KEYWORD1
+Me_LegoUltrasonic	KEYWORD1
+Me_LegoMotor	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin		KEYWORD2
+read		KEYWORD2
+restart		KEYWORD2
+start		KEYWORD2
+stop		KEYWORD2
+write		KEYWORD2
+writeByte	KEYWORD2
+readByte	KEYWORD2
+readLong	KEYWORD2
+Motor1GetSpeedStatus	KEYWORD2
+Motor2GetSpeedStatus	KEYWORD2
+Motor1GetSecondsStatus	KEYWORD2	
+Motor2GetSecondsStatus	KEYWORD2
+Motor1GetDegreesStatus	KEYWORD2
+Motor2GetDegreesStatus	KEYWORD2
+MotorSetSpeed	KEYWORD2
+MotorSetDuration	KEYWORD2
+MotorSetSpeedAndDuration	KEYWORD2
+Motor1RunUnlimited_Power	KEYWORD2
+Motor2RunUnlimited_Power	KEYWORD2
+Motor1RunUnlimited_RPM	KEYWORD2
+Motor2RunUnlimited_RPM	KEYWORD2
+Motor1RunSeconds_Power	KEYWORD2
+Motor2RunSeconds_Power	KEYWORD2
+Motor1RunSeconds_RPM	KEYWORD2
+Motor2RunSeconds_RPM	KEYWORD2
+Motor1RunDegrees_Power	KEYWORD2
+Motor2RunDegrees_Power	KEYWORD2
+Motor1RunDegrees_RPM	KEYWORD2
+Motor2RunDegrees_RPM	KEYWORD2
+Motor1RunRotations_Power	KEYWORD2
+Motor2RunRotations_Power	KEYWORD2
+Motor1RunRotations_RPM	KEYWORD2
+Motor2RunRotations_RPM	KEYWORD2
+Motor1Stop_Brake	KEYWORD2
+Motor2Stop_Brake	KEYWORD2
+Motor1Stop_Coast	KEYWORD2
+Motor2Stop_Coast	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+

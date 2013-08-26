@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map Me_LineFinder
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_LineFinder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+readSensor1	KEYWORD2
+readSensor2	KEYWORD2
+readSensors	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+S1_IN_S2_IN	LITERAL1
+S1_IN_S2_OUT	LITERAL1
+S1_OUT_S2_IN	LITERAL1
+S1_OUT_S2_OUT	LITERAL1
+
+#######################################
+

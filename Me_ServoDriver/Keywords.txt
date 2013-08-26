@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map Me_ServoDriver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_ServoDriver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+beginServo1	KEYWORD2
+beginServo2	KEYWORD2
+
+detachServos	KEYWORD2
+detachServo1	KEYWORD2
+detachServo2	KEYWORD2
+
+readServo1	KEYWORD2
+readServo2	KEYWORD2
+writeServo1	KEYWORD2
+writeServo2	KEYWORD2
+
+readMicrosecondsServo1	KEYWORD2
+readMicrosecondsServo2	KEYWORD2
+writeMicrosecondsServo1	KEYWORD2
+writeMicrosecondsServo2	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

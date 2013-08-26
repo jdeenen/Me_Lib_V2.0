@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map Me_SoftServoDriver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_SoftServoDriver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Servos_begin	KEYWORD2
+Servo1_begin	KEYWORD2
+Servo2_begin	KEYWORD2
+writeServo1	KEYWORD2
+writeServo2	KEYWORD2
+writeServo1Microseconds	KEYWORD2
+writeServo2Microseconds	KEYWORD2
+readServo1	KEYWORD2
+readServo2	KEYWORD2
+readServo1Microseconds	KEYWORD2
+readServo2Microseconds	KEYWORD2
+servo1Attached	KEYWORD2
+servo2Attached	KEYWORD2
+detachServo1	KEYWORD2
+detachServo2	KEYWORD2
+detachAll	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

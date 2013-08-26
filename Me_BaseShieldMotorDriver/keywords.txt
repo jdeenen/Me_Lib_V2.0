@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map Me_BaseShieldMotorDriver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_BaseShieldMotorDriver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+runMotors	KEYWORD2
+runMotor1	KEYWORD2
+runMotor2	KEYWORD2
+stopMotors	KEYWORD2
+stopMotor1	KEYWORD2
+stopMotor2	KEYWORD2
+
+begin	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

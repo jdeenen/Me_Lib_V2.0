@@ -1,0 +1,25 @@
+#########################################
+# Syntax Coloring Map for iSoftwareSerial
+#########################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+iSoftwareSerial	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+read	KEYWORD2
+available	KEYWORD2
+overflow	KEYWORD2
+flush	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map Me_BaseShield
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_BaseShield	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setMePort		KEYWORD2
+setMePortOutsidePin	KEYWORD2
+setMePortInnersidePin	KEYWORD2
+
+readMePort		KEYWORD2
+readMePortOutsidePin	KEYWORD2
+readMePortInnersidePin	KEYWORD2
+
+readAnalogMePort		KEYWORD2
+readAnalogMePortOutsidePin	KEYWORD2
+readAnalogMePortInnersidePin	KEYWORD2
+
+begin	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PORT_1	LITERAL1
+PORT_2	LITERAL1
+PORT_3	LITERAL1
+PORT_4	LITERAL1
+PORT_5	LITERAL1
+PORT_6	LITERAL1
+PORT_7	LITERAL1
+PORT_8	LITERAL1

@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map Me_InfraredReceiverDecode
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_InfraredReceiverDecode	KEYWORD1
+SoftwareSerial	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+read	KEYWORD2
+begin	KEYWORD2
+available	KEYWORD2
+buttonState	KEYWORD2
+modeSwitch	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+
+IR_BUTTON_POWER	LITERAL1
+IR_BUTTON_MENU	LITERAL1
+IR_BUTTON_TEST	LITERAL1
+IR_BUTTON_PLUS	LITERAL1
+IR_BUTTON_RETURN	LITERAL1
+IR_BUTTON_PREVIOUS	LITERAL1
+IR_BUTTON_PLAY	LITERAL1
+IR_BUTTON_NEXT	LITERAL1
+IR_BUTTON_MINUS	LITERAL1
+IR_BUTTON_CLR	LITERAL1
+IR_BUTTON_0	LITERAL1
+IR_BUTTON_1	LITERAL1
+IR_BUTTON_2	LITERAL1
+IR_BUTTON_3	LITERAL1
+IR_BUTTON_4	LITERAL1
+IR_BUTTON_5	LITERAL1
+IR_BUTTON_6	LITERAL1
+IR_BUTTON_7	LITERAL1
+IR_BUTTON_8	LITERAL1
+IR_BUTTON_9	LITERAL1
+#######################################
