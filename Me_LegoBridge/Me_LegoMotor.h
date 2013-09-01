@@ -22,17 +22,17 @@
 #define Me_LegoMotor_h
 #define SLAVE_ADDRESS 0x08
 
-//Currernt Time Status of Motor 1
+//Current Time Status of Motor 1
 #define M1_Seconds_Read 0x01
-//Currernt Time Status of Motor 2
+//Current Time Status of Motor 2
 #define M2_Seconds_Read 0x05
 //Current Tacho Status of Motor 1
 #define M1_Degrees_Read 0x09
 //Current Tacho Status of Motor 2
 #define M2_Degrees_Read 0x0D
-//Currernt Speed Status of Motor 1
+//Current Speed Status of Motor 1
 #define M1_Speed_Read 0x11
-//Currernt Speed Status of Motor 2
+//Current Speed Status of Motor 2
 #define M2_Speed_Read 0x13
 //Duration is done or not
 /*#define M1_Time_Status 0x15
